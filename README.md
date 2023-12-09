@@ -20,4 +20,3 @@ To get a response, send the following request to the endpoint `http://localhost:
 ## Authentication
 
 User authentication can be achieved using `passport.js`. Each route can be protected by adding its middleware. During login, a token can be sent, and while making API calls, the tokens can be compared to authenticate the user.
-# sampleBankStatementGeneration
